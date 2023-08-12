@@ -1,4 +1,4 @@
-![logo] (https://github.com/Sidrat-ul-Muntaha/Sidrat-ul-Muntaha/blob/main/Github%20Banner.png)
+![logo](https://github.com/Sidrat-ul-Muntaha/Sidrat-ul-Muntaha/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sidrat-ul-Muntaha</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
