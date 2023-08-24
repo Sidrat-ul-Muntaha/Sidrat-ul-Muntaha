@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Tailwind CSS, Material UI, Ant Design and Java and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://sidrat-ul-muntaha.github.io/react-deploy/](https://sidrat-ul-muntaha.github.io/react-deploy/)
+- 👨‍💻 Porfolio Link [https://sidrat-ul-muntaha.github.io/react-deploy/](https://sidrat-ul-muntaha.github.io/react-deploy/)
 
 - 📫 How to reach me **sidratulmuntahausmani@gmail.com**
 
