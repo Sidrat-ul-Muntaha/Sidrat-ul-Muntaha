@@ -9,21 +9,19 @@
 <h3>A Passionate Full Stack Web Developer from Pakistan.</h3>
 
 <div>
-<p>🔭 Currently working on <b>exciting projects<b>.</p>
-<p>🚀 Proficient in <b>JavaScript, React, NestJS, Java, and Spring Boot<b>.</p>
-<p>💬 Ask me about <b>Javascript, ReactJs and Spring Boot<b>.</p>
+<p>🔭 Currently working on <b>exciting projects</b>.</p>
+<p>🚀 Proficient in <b>JavaScript, React, NestJS, Java, and Spring Boot</b>.</p>
+<p>💬 Ask me about <b>Javascript, ReactJs and Spring Boot</b>.</p>
 <p>💻 Porfolio Link <a href ="https://sidrat-ul-muntaha.github.io/react-deploy/">https://sidrat-ul-muntaha.github.io/react-deploy</a></p>
-<p>📫 How to reach me <a>sidratulmuntahausmani@gmail.com</a></p>
+<p>📫 How to reach me <a href="mailto:sidratulmuntahausmani@gmail.com">sidratulmuntahausmani@gmail.com</a></p>
 </div>
-
 
 <!--Profile Count Badge-->
 <h2 align="left">Profile Views</h2>
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=sidrat-ul-muntaha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="sidrat-ul-muntaha" style="padding-right:20px;/>
-
+  <img src="https://komarev.com/ghpvc/?username=sidrat-ul-muntaha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="sidrat-ul-muntaha" style="padding-right:20px;" />
 </p>
-<hr>
+
 <h2 align="center">🛠️ Languages and Tools:</h2>
 <div align="center">
   <table>
@@ -56,9 +54,7 @@
       <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman&perline=3" alt="Firebase"></a></td>
     </tr>
   </table>
-
 </div>
-
 
 <h2 align="center">🌐 Most Used Languages</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidrat-ul-muntaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
@@ -94,10 +90,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidrat-ul-muntaha&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
-
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-
