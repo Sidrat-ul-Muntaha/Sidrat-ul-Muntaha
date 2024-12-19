@@ -60,7 +60,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidrat-ul-muntaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<!-- <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
@@ -83,7 +83,7 @@
   </tr>
 </table>
 <br />
-
+ -->
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
