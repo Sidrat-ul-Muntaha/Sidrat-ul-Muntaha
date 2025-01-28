@@ -12,7 +12,7 @@
 <p>🔭 Currently working on <b>exciting projects</b>.</p>
 <p>🚀 Proficient in <b>JavaScript, React, NestJS, Java, and Spring Boot</b>.</p>
 <p>💬 Ask me about <b>Javascript, ReactJs and Spring Boot</b>.</p>
-<p>💻 Porfolio Link <a href ="https://sidrat-ul-muntaha.github.io/react-deploy/">https://sidrat-ul-muntaha.github.io/react-deploy</a></p>
+<p>💻 Porfolio Link <a href ="https://sidrat-ul-muntaha.netlify.app/">https://sidrat-ul-muntaha.github.io/react-deploy</a></p>
 <p>📫 How to reach me <a href="mailto:sidratulmuntahausmani@gmail.com">sidratulmuntahausmani@gmail.com</a></p>
 </div>
 
